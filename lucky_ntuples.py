@@ -1,3 +1,8 @@
+# This will find the number of combinations of ntuples 
+# where each element divides the next. Only unique
+# combinations are counted. Call answer( [yourlist], ntuple_len )
+# to find how many ntuples there are. Useful for counting
+# nprimes (primes with n divisors other than 1).
 dic = {}
 lucky = 0
 
